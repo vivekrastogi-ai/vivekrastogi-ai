@@ -1,18 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm Vivek Rastogi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vivek%20Rastogi&fontSize=60&fontColor=00D9FF&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=55&descSize=20&animation=fadeIn"/>
 
-### 🚀 Data Science & AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Developer;Building+Production-Ready+AI+Applications" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Developer;Building+Production-Ready+AI+Applications" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=vivekrastogi-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vivekrastogi-ai&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/vivekrastogi-ai?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
 
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/vivek-rastogi-78401430b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rastogivivek067@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/vivekrastogi-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/profile/rastogivz2nq/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 🎓 **B.Tech Data Science Student**
 
@@ -24,17 +35,66 @@
 
 🚀 I enjoy transforming raw data into actionable insights and developing production-ready AI applications.
 
+```python
+class VivekRastogi:
+    def __init__(self):
+        self.education   = "B.Tech - Data Science"
+        self.role         = ["AI Engineer", "Data Scientist", "BI Developer"]
+        self.learning     = ["LLMs", "RAG", "LangChain", "Hugging Face", "MLOps", "FastAPI"]
+        self.interests    = ["AI Engineering", "Generative AI", "Data Analytics", "Backend Dev"]
+        self.currentGoal  = "Build Production-Ready AI Applications 🚀"
+
+    def motto(self):
+        return "Consistency beats intensity. Build every day, improve every day."
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming & Databases
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/>
+
+### 📊 Data Analytics
+<img src="https://skillicons.dev/icons?i=excel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+
+### 🧠 NLP & Generative AI
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+
+### ⚙ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
 ---
 
 ## 🌱 Currently Learning
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Hugging Face
-- MLOps
-- Advanced Power BI
-- Deployment using Streamlit
+<div align="center">
+
+`Large Language Models (LLMs)` `Retrieval-Augmented Generation (RAG)` `LangChain` `Hugging Face` `MLOps` `Advanced Power BI` `FastAPI` `Streamlit Deployment`
+
+</div>
 
 ---
 
@@ -44,117 +104,24 @@
 
 ---
 
-# 💻 Problem Solving
-
-✔ Solved **120+ DSA Problems**
-
-✔ Strong understanding of
-
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Graphs
-- Hashing
-- Recursion
-
-✔ Consistently improving problem-solving skills through regular coding practice.
-
----
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-</p>
-
----
-
-### 📊 Data Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=excel"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
----
-
-### 🤖 Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-</p>
-
----
-
-### 🧠 NLP & Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
-</p>
-
----
-
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
----
-
-### ⚙ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/vivek-rastogi-78401430b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rastogivivek067@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vivekrastogi-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
+## 💻 Problem Solving
 
 <div align="center">
 
-### 🚀 Building AI Solutions That Create Real-World Impact
+<img src="https://img.shields.io/badge/DSA%20Problems%20Solved-120%2B-00D9FF?style=for-the-badge"/>
+<a href="https://www.geeksforgeeks.org/profile/rastogivz2nq/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-⭐ Thanks for visiting my profile!
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/rastogivz2nq/" target="_blank">
+<img src="https://gfgstatscard.vercel.app/rastogivz2nq" alt="GeeksforGeeks Stats" />
+</a>
 
 </div>
+
+✔ Strong understanding of **Arrays, Strings, Linked Lists, Stack, Queue, Trees, Graphs, Hashing, Recursion**
+
+✔ Consistently improving problem-solving skills through regular coding practice on **GeeksforGeeks**
 
 ---
 
@@ -162,120 +129,132 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏥 Hospital Emergency Room Dashboard (Power BI)
+### 🏥 Hospital Emergency Room Dashboard <sub>(Power BI)</sub>
 
-📊 Interactive Hospital Dashboard built using Power BI.
+<a href="https://github.com/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard-Power-BI-" target="_blank">
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard-Power-BI-/main/Monthly%20View.png" width="100%"/>
+</a>
 
-### 🔹 Features
+📊 Interactive Hospital ER dashboard with KPI cards, DAX measures, dynamic filters and drill-down analysis.
 
-- KPI Cards
-- Power Query
-- DAX Measures
-- Dynamic Filters
-- Interactive Charts
-- Business Insights
+`Power BI` `DAX` `Power Query` `Data Modeling`
 
-**Tech Stack**
+<img src="https://img.shields.io/github/stars/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard-Power-BI-?style=flat-square&color=yellow&logo=github"/>
+<img src="https://img.shields.io/github/forks/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard-Power-BI-?style=flat-square&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard-Power-BI-?style=flat-square&color=green"/>
 
-`Power BI` `DAX` `Power Query`
+**[🔗 View Project](https://github.com/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard-Power-BI-)**
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🏥 Hospital Emergency Room Dashboard <sub>(Excel)</sub>
 
-## 🏥 Hospital Emergency Room Dashboard (Excel)
+<a href="https://github.com/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard" target="_blank">
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard/main/dashboard.png" width="100%"/>
+</a>
 
-Interactive dashboard built using Microsoft Excel.
+📊 Interactive ER dashboard built with Pivot Tables, Pivot Charts, KPI cards and slicers in Excel.
 
-### 🔹 Features
+`Excel` `Pivot Tables` `Pivot Charts` `Slicers`
 
-- Pivot Tables
-- Pivot Charts
-- KPI Cards
-- Slicers
-- Dynamic Dashboard
+<img src="https://img.shields.io/github/stars/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard?style=flat-square&color=yellow&logo=github"/>
+<img src="https://img.shields.io/github/forks/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard?style=flat-square&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard?style=flat-square&color=green"/>
 
-**Tech Stack**
-
-`Excel` `Pivot Tables`
+**[🔗 View Project](https://github.com/vivekrastogi-ai/Hospital-Emergency-Room-Dashboard)**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🍔 Swiggy Sales Dashboard
+### 🍔 Swiggy Sales Dashboard <sub>(Excel)</sub>
 
-Sales analytics dashboard with business insights.
+<a href="https://github.com/vivekrastogi-ai/Swiggy-Sales-Dashboard-Excel" target="_blank">
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/Swiggy-Sales-Dashboard-Excel/main/Swiggi_Dashboard.png" width="100%"/>
+</a>
 
-### Features
+🛵 Sales analytics dashboard with monthly/weekly trends, state-wise map chart and top-city insights.
 
-- Sales Analysis
-- Customer Insights
-- Product Performance
-- Interactive Dashboard
+`Excel` `Pivot Tables` `Map Chart` `KPI Cards`
 
-**Tech Stack**
+<img src="https://img.shields.io/github/stars/vivekrastogi-ai/Swiggy-Sales-Dashboard-Excel?style=flat-square&color=yellow&logo=github"/>
+<img src="https://img.shields.io/github/forks/vivekrastogi-ai/Swiggy-Sales-Dashboard-Excel?style=flat-square&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/vivekrastogi-ai/Swiggy-Sales-Dashboard-Excel?style=flat-square&color=green"/>
 
-`Excel`
+**[🔗 View Project](https://github.com/vivekrastogi-ai/Swiggy-Sales-Dashboard-Excel)**
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🔍 FactCheck AI
 
-## 🎬 IMDb India Movie Rating Predictor
+<!-- TODO: upload your FactCheck AI screenshot to the factcheck-ai repo as screenshot.png, then uncomment -->
+<!-- <a href="https://github.com/vivekrastogi-ai/factcheck-ai" target="_blank">
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/factcheck-ai/main/screenshot.png" width="100%"/>
+</a> -->
 
-Machine Learning model for predicting movie ratings.
+🤖 AI-powered app that extracts claims from any PDF and verifies them live against the web using Groq LLaMA 3.3 + Serper Search.
 
-### Features
+`Python` `Streamlit` `Groq LLM` `Serper API`
 
-- Data Cleaning
-- NLP
-- Feature Engineering
-- Regression Model
+<img src="https://img.shields.io/github/stars/vivekrastogi-ai/factcheck-ai?style=flat-square&color=yellow&logo=github"/>
+<img src="https://img.shields.io/github/forks/vivekrastogi-ai/factcheck-ai?style=flat-square&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/vivekrastogi-ai/factcheck-ai?style=flat-square&color=green"/>
 
-**Tech Stack**
-
-`Python`
-
-`Scikit-Learn`
-
-`Machine Learning`
+**[🔗 View Project](https://github.com/vivekrastogi-ai/factcheck-ai)** • **[🚀 Live Demo](https://factcheck-ai-awpq2na5bgfenfjac34ruw.streamlit.app/)**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 Customer Churn Prediction
+### 🎬 Movie Recommendation System
 
-Predict customer churn using ML algorithms.
+<!-- TODO: add screenshot -> upload as movie-recommender.png in this repo, then uncomment below -->
+<!-- <img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/movie-recommender.png" width="100%"/> -->
 
-**Tech Stack**
+🍿 Content-based movie recommender that suggests similar titles using NLP feature extraction and similarity scoring.
 
-`Python`
+`Python` `Scikit-Learn` `NLP` `Streamlit`
 
-`Scikit-Learn`
-
-</td>
-
-<td width="50%">
-
-## 💬 AI Resume Analyzer
-
-🚧 Coming Soon...
-
-Generative AI Project using LLMs.
+**🔗 View Project — repo link pending, bhej do to turant link kar dunga**
 
 </td>
+<td width="50%" valign="top">
 
+### 🤖 AI Career Intelligence Platform <sub>🔥 In Progress</sub>
+
+Generative AI platform for career guidance and intelligence — actively being built.
+
+`Python` `Generative AI` `LLMs`
+
+<img src="https://img.shields.io/github/stars/vivekrastogi-ai/AI-Career-Intelligence-Platform?style=flat-square&color=yellow&logo=github"/>
+<img src="https://img.shields.io/github/forks/vivekrastogi-ai/AI-Career-Intelligence-Platform?style=flat-square&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/vivekrastogi-ai/AI-Career-Intelligence-Platform?style=flat-square&color=green"/>
+
+**[🔗 View Project](https://github.com/vivekrastogi-ai/AI-Career-Intelligence-Platform)**
+
+</td>
 </tr>
-
 </table>
+
+### 📓 More Data Analysis Projects
+
+<div align="center">
+
+<a href="https://github.com/vivekrastogi-ai/Netflix_Stock_Analysis"><img src="https://img.shields.io/badge/📈_Netflix_Stock_Analysis-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vivekrastogi-ai/Employees_Career_Survey"><img src="https://img.shields.io/badge/📋_Employees_Career_Survey-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/>
+<a href="https://github.com/vivekrastogi-ai/FileManagerProject"><img src="https://img.shields.io/badge/🗂️_File_Manager_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vivekrastogi-ai/ml-pipeline-project"><img src="https://img.shields.io/badge/⚙️_ML_Pipeline_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
@@ -284,179 +263,74 @@ Generative AI Project using LLMs.
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekrastogi-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrastogi-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=vivekrastogi-ai&theme=tokyonight&hide_border=true"/>
-
 </div>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=vivekrastogi-ai&theme=tokyonight&row=1&column=6"/>
-
 </div>
 
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekrastogi-ai&theme=tokyo-night"/>
-
 </div>
 
 ---
 
-# 🎓 Certifications & Training
+## 🎓 Certifications & Training
 
 ✔ AI & Data Science Trainee
-
 ✔ AI Data Analytics Internship
-
 ✔ Machine Learning Projects
-
 ✔ Power BI Dashboard Development
-
 ✔ Excel Dashboard Development
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-🚀 Building Production Ready AI Applications
-
-📊 Advanced Data Analytics
-
-🤖 Machine Learning
-
-🧠 Generative AI
-
-⚡ LangChain Applications
-
-☁ Learning MLOps
-
-📈 Power BI Dashboards
+🚀 Building Production Ready AI Applications &nbsp;|&nbsp; 📊 Advanced Data Analytics &nbsp;|&nbsp; 🤖 Machine Learning
+🧠 Generative AI &nbsp;|&nbsp; ⚡ LangChain Applications &nbsp;|&nbsp; ☁ Learning MLOps &nbsp;|&nbsp; 📈 Power BI Dashboards
 
 ---
 
-# 📌 2026 Goals
+## 📌 2026 Goals
 
-🎯 250+ DSA Problems
-
-🎯 20+ End-to-End Projects
-
-🎯 Open Source Contributions
-
-🎯 AI Engineer Internship
-
-🎯 Strong GitHub Portfolio
+🎯 250+ DSA Problems &nbsp;•&nbsp; 🎯 20+ End-to-End Projects &nbsp;•&nbsp; 🎯 Open Source Contributions &nbsp;•&nbsp; 🎯 AI Engineer Internship &nbsp;•&nbsp; 🎯 Strong GitHub Portfolio
 
 ---
 
----
+## 🤝 Let's Collaborate
 
-# 🌟 Open Source Journey
-
-I believe in continuous learning, building impactful projects, and contributing to the developer community.
-
-My GitHub is a reflection of my journey in:
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 📈 Data Analytics
-- 🧠 Machine Learning
-- 💬 Natural Language Processing
-- ⚡ Generative AI
-- 📉 Business Intelligence
-- ☁️ MLOps (Learning)
+I'm always interested in collaborating on **AI Projects · Data Analytics · Machine Learning · NLP · Generative AI · Power BI Dashboards · Open Source**
 
 ---
 
-# 📚 Currently Learning
+## 📫 Reach Me
 
-```python
-class VivekRastogi:
+<div align="center">
 
-    education = "B.Tech Data Science"
+📧 **rastogivivek067@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/vivek-rastogi-78401430b/)** &nbsp;|&nbsp; 🐙 **[GitHub](https://github.com/vivekrastogi-ai)** &nbsp;|&nbsp; 🧑‍💻 **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/rastogivz2nq/)**
 
-    learning = [
-        "Machine Learning",
-        "Deep Learning",
-        "LangChain",
-        "LLMs",
-        "RAG",
-        "MLOps",
-        "FastAPI",
-        "Power BI"
-    ]
-
-    interests = [
-        "AI Engineering",
-        "Data Analytics",
-        "Generative AI",
-        "Backend Development"
-    ]
-
-    goal = "Build Production Ready AI Applications 🚀"
-```
-
----
-
-# 💡 Quote I Believe In
-
-> **"Consistency beats intensity. Build every day, improve every day."**
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-- 🤖 AI Projects
-- 📊 Data Analytics Projects
-- 🧠 Machine Learning
-- 💬 NLP
-- 🚀 Generative AI
-- 📈 Power BI Dashboards
-- 🌍 Open Source
-
----
-
-# 📫 Reach Me
-
-📧 **Email**
-
-**rastogivivek067@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/vivek-rastogi-78401430b/
-
-🐙 **GitHub**
-
-https://github.com/vivekrastogi-ai
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile
+### 🚀 Building AI Solutions That Create Real-World Impact
 
-### ⭐ If you like my work, don't forget to star my repositories.
+⭐ Thanks for visiting my profile — don't forget to star the repos above!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 

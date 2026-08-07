@@ -30,7 +30,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/profile.png" width="220" style="border-radius:50%;"/>
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/profile.png" width="220" style="border-radius:50%;"/>
 
 </td>
 <td width="70%" valign="top">

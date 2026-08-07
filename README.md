@@ -19,37 +19,56 @@
 <a href="mailto:rastogivivek067@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/vivekrastogi-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/profile/rastogivz2nq/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://vivekrastogi-ai.github.io/Vivekrastogi69.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </div>
 
 ---
 
 ## 💫 About Me
 
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/profile.png" width="220" style="border-radius:50%;"/>
+
+<sub>*(upload your photo as `assets/profile.png` in this repo — circular framing will apply automatically)*</sub>
+
+</td>
+<td width="70%" valign="top">
+
 🎓 **B.Tech Data Science Student**
-
 🤖 **AI & Data Science Trainee**
-
 📊 **AI Data Analytics Intern**
 
 💡 Passionate about building intelligent systems using Artificial Intelligence, Machine Learning, NLP and Data Analytics.
 
 🚀 I enjoy transforming raw data into actionable insights and developing production-ready AI applications.
 
-```python
+</td>
+</tr>
+</table>
+
+<div align="center">
+<table>
+<tr><td>
+
+<pre>
 class VivekRastogi:
     def __init__(self):
-        self.education  = "B.Tech - Data Science"
-        self.role       = ["AI Engineer", "Data Scientist", "BI Dev"]
-        self.learning    = ["LLMs", "RAG", "LangChain", "MLOps"]
-        self.interests   = ["Generative AI", "Data Analytics", "Backend"]
-        self.currentGoal = "Build Production-Ready AI Apps 🚀"
+        self.education   = "B.Tech - Data Science"
+        self.role         = ["AI Engineer", "Data Scientist", "BI Dev"]
+        self.learning     = ["LLMs", "RAG", "LangChain", "MLOps"]
+        self.interests    = ["Generative AI", "Data Analytics", "Backend"]
+        self.currentGoal  = "Build Production-Ready AI Apps 🚀"
 
     def motto(self):
-        return (
-            "Consistency beats intensity. "
-            "Build every day, improve every day."
-        )
-```
+        return "Consistency beats intensity. Build every day, improve every day."
+</pre>
+
+</td></tr>
+</table>
+</div>
 
 ---
 
@@ -197,7 +216,7 @@ class VivekRastogi:
 ### 🔍 FactCheck AI
 
 <a href="https://github.com/vivekrastogi-ai/factcheck-ai" target="_blank">
-<img src="https://raw.githubusercontent.com/vivekrastogi-ai/factcheck-ai/main/screenshot.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/factcheck-ai/main/preview.webp" width="100%"/>
 </a>
 
 🤖 AI-powered app that extracts claims from any PDF and verifies them live against the web using Groq LLaMA 3.3 + Serper Search.
@@ -218,13 +237,19 @@ class VivekRastogi:
 
 ### 🎬 Movie Recommendation System
 
-<img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/movie-recommender.png" width="100%"/>
+<a href="https://github.com/vivekrastogi-ai/movie-reco" target="_blank">
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/movie-reco/main/preview%281%29.webp" width="100%"/>
+</a>
 
 🍿 Content-based movie recommender that suggests similar titles using NLP feature extraction and similarity scoring.
 
 `Python` `Scikit-Learn` `NLP` `Streamlit`
 
-**🔗 View Project — repo link pending, bhej do to turant link kar dunga**
+<img src="https://img.shields.io/github/stars/vivekrastogi-ai/movie-reco?style=flat-square&color=yellow&logo=github"/>
+<img src="https://img.shields.io/github/forks/vivekrastogi-ai/movie-reco?style=flat-square&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/vivekrastogi-ai/movie-reco?style=flat-square&color=green"/>
+
+**[🔗 View Project](https://github.com/vivekrastogi-ai/movie-reco)**
 
 </td>
 <td width="50%" valign="top">
@@ -303,6 +328,12 @@ Generative AI platform for career guidance and intelligence — actively being b
 ✔ Machine Learning Projects
 ✔ Power BI Dashboard Development
 ✔ Excel Dashboard Development
+
+<div align="center">
+
+<a href="https://vivekrastogi-ai.github.io/Vivekrastogi69.github.io/" target="_blank"><img src="https://img.shields.io/badge/📜_View_All_Certificates-00D9FF?style=for-the-badge"/></a>
+
+</div>
 
 ---
 

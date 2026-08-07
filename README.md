@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vivek%20Rastogi&fontSize=60&fontColor=00D9FF&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=55&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vivek%20Rastogi&fontSize=60&fontColor=00D9FF&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Developer;Building+Production-Ready+AI+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Data+Analyst+%7C+Data+Scientist;Machine+Learning+%26+AI+Engineer;NLP+%2B+Generative+AI+Enthusiast;Power+BI+%7C+Excel+%7C+SQL+Developer;Building+Production-Ready+AI+Applications" />
 
 <br/>
 
@@ -32,18 +32,16 @@
 
 <img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/profile.png" width="220" style="border-radius:50%;"/>
 
-<sub>*(upload your photo as `assets/profile.png` in this repo — circular framing will apply automatically)*</sub>
-
 </td>
 <td width="70%" valign="top">
 
-🎓 **B.Tech Data Science Student**
-🤖 **AI & Data Science Trainee**
-📊 **AI Data Analytics Intern**
+🎓 **B.Tech Data Science Student** — CGPA 8.4
+📊 **AI Data Analytics Intern** @ InAmigos Foundation
+🤖 **AI & Data Science Trainee** @ Sheryians Coding School
 
-💡 Passionate about building intelligent systems using Artificial Intelligence, Machine Learning, NLP and Data Analytics.
+💡 Data Analyst / ML Engineer in the making — I love turning raw, messy data into clear, actionable insights first, then layering AI/ML on top to make it smarter.
 
-🚀 I enjoy transforming raw data into actionable insights and developing production-ready AI applications.
+🚀 Currently building end-to-end AI pipelines: data preprocessing → feature engineering → model deployment.
 
 </td>
 </tr>
@@ -56,11 +54,11 @@
 <pre>
 class VivekRastogi:
     def __init__(self):
-        self.education   = "B.Tech - Data Science"
-        self.role         = ["AI Engineer", "Data Scientist", "BI Dev"]
+        self.education    = "B.Tech - Data Science (CGPA: 8.4)"
+        self.role         = ["Data Analyst", "Data Scientist", "ML/AI Engineer"]
+        self.skills       = ["Python", "SQL", "Power BI", "Excel", "Pandas"]
         self.learning     = ["LLMs", "RAG", "LangChain", "MLOps"]
-        self.interests    = ["Generative AI", "Data Analytics", "Backend"]
-        self.currentGoal  = "Build Production-Ready AI Apps 🚀"
+        self.currentGoal  = "Turn Raw Data into Real Business Impact 📊"
 
     def motto(self):
         return "Consistency beats intensity. Build every day, improve every day."
@@ -72,23 +70,76 @@ class VivekRastogi:
 
 ---
 
+## 💼 Experience
+
+<table>
+<tr>
+<td width="15%"><b>Jul 2026</b><br/><sub>2 Weeks</sub></td>
+<td width="85%">
+
+**AI Data Analytics Intern** — *InAmigos Foundation (Remote)*
+Selected for a remote AI Data Analytics internship with a CSR-1 registered organization. Applied Python & Excel-based analysis to real foundation projects on a flexible schedule.
+
+</td>
+</tr>
+<tr>
+<td width="15%"><b>Mar 2026</b><br/><sub>Present</sub></td>
+<td width="85%">
+
+**AI & Data Science Trainee** — *Sheryians Coding School (Online, 1-Year Intensive)*
+Mastered the full AI/ML workflow — data ingestion → EDA → feature engineering → model selection → hyperparameter tuning → deployment. Built and deployed multiple end-to-end ML pipelines (regression, classification, NLP) and gained production-level exposure to LangChain, HuggingFace Transformers, and Generative AI development.
+
+</td>
+</tr>
+</table>
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="70%">
+
+**B.Tech in Data Science** — St. Andrews Institute of Technology and Management, Gurgaon
+
+</td>
+<td width="30%" align="right">2024 – Aug 2027<br/><b>CGPA: 8.4</b></td>
+</tr>
+<tr>
+<td width="70%">
+
+**Diploma in Mechanical Engineering (Automobile)** — BTEUP, Meerut
+
+</td>
+<td width="30%" align="right">2021 – Jun 2024<br/><b>Score: 80%</b></td>
+</tr>
+</table>
+
+## 🏅 Key Achievements
+
+✔ Reduced an ML data pipeline's runtime by **40%** through algorithmic optimization
+✔ Built an end-to-end Hospital ER Excel dashboard — data cleaning → Pivot analysis → KPI design → deployment
+✔ Maintained an **8.4 CGPA** while shipping multiple end-to-end AI/ML and data analysis projects alongside industry training
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming & Databases
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/>
-
-### 📊 Data Analytics
+### 📊 Data Analytics & Visualization <sub>(Primary Focus)</sub>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 <img src="https://skillicons.dev/icons?i=excel"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 ### 🤖 Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
@@ -100,6 +151,9 @@ class VivekRastogi:
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+
+### 🗄 Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws"/>
 
 ### ⚙ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>

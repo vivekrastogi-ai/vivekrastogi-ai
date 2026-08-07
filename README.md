@@ -38,14 +38,17 @@
 ```python
 class VivekRastogi:
     def __init__(self):
-        self.education   = "B.Tech - Data Science"
-        self.role         = ["AI Engineer", "Data Scientist", "BI Developer"]
-        self.learning     = ["LLMs", "RAG", "LangChain", "Hugging Face", "MLOps", "FastAPI"]
-        self.interests    = ["AI Engineering", "Generative AI", "Data Analytics", "Backend Dev"]
-        self.currentGoal  = "Build Production-Ready AI Applications 🚀"
+        self.education  = "B.Tech - Data Science"
+        self.role       = ["AI Engineer", "Data Scientist", "BI Dev"]
+        self.learning    = ["LLMs", "RAG", "LangChain", "MLOps"]
+        self.interests   = ["Generative AI", "Data Analytics", "Backend"]
+        self.currentGoal = "Build Production-Ready AI Apps 🚀"
 
     def motto(self):
-        return "Consistency beats intensity. Build every day, improve every day."
+        return (
+            "Consistency beats intensity. "
+            "Build every day, improve every day."
+        )
 ```
 
 ---
@@ -193,10 +196,9 @@ class VivekRastogi:
 
 ### 🔍 FactCheck AI
 
-<!-- TODO: upload your FactCheck AI screenshot to the factcheck-ai repo as screenshot.png, then uncomment -->
-<!-- <a href="https://github.com/vivekrastogi-ai/factcheck-ai" target="_blank">
+<a href="https://github.com/vivekrastogi-ai/factcheck-ai" target="_blank">
 <img src="https://raw.githubusercontent.com/vivekrastogi-ai/factcheck-ai/main/screenshot.png" width="100%"/>
-</a> -->
+</a>
 
 🤖 AI-powered app that extracts claims from any PDF and verifies them live against the web using Groq LLaMA 3.3 + Serper Search.
 
@@ -216,8 +218,7 @@ class VivekRastogi:
 
 ### 🎬 Movie Recommendation System
 
-<!-- TODO: add screenshot -> upload as movie-recommender.png in this repo, then uncomment below -->
-<!-- <img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/movie-recommender.png" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/main/assets/movie-recommender.png" width="100%"/>
 
 🍿 Content-based movie recommender that suggests similar titles using NLP feature extraction and similarity scoring.
 
@@ -284,6 +285,14 @@ Generative AI platform for career guidance and intelligence — actively being b
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekrastogi-ai&theme=tokyo-night"/>
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/vivekrastogi-ai/vivekrastogi-ai/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<sub>*(One-time setup needed — see `snake.yml` provided alongside this README. Add it to `.github/workflows/` in your `vivekrastogi-ai/vivekrastogi-ai` repo and it'll auto-generate this animation daily.)*</sub>
 
 ---
 
